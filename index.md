@@ -23,7 +23,7 @@ Welcome to the DSAA2025 Special Session on Private, Secure, and Trust Data Analy
 
 <br/>
 
-<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc. This special session invites authors to submit original research work that demonstrate and explore current advances in all related areas mentioned above. High-quality accepted papers will be recommended to the associated journal special issues (see more details in <a href="https://pstda2023.github.io/cfp/">Call for Papers)</a>. </div>
+<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc. This special session invites authors to submit original research work that demonstrate and explore current advances in all related areas mentioned above. High-quality accepted papers will be recommended to the associated journal special issues (see more details in <a href="https://pstda2025.github.io/cfp/">Call for Papers)</a>. </div>
 
 <br/>
 
