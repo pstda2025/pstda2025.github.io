@@ -4,7 +4,7 @@
 
 layout: home
 #layout: page
-#title: PSTDA@DSAA2025
+#title: PSTDA@ADMA2025
 permalink: /
 
 ---
@@ -15,7 +15,7 @@ permalink: /
 
 <br/>
 
-Welcome to the DSAA2025 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2025). It is a special session of the 10th IEEE International Conference on Data Science and Advanced Analytics ([DSAA2025](https://conferences.sigappfr.org/dsaa2025/)).
+Welcome to the ADMA2025 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2025). It is a special session of the 10th IEEE International Conference on Data Science and Advanced Analytics ([ADMA2025](https://adma2025.github.io/)).
 
 <br/>
 
