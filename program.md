@@ -5,11 +5,11 @@ permalink: /program/
 order: 1
 ---
 ### **Conference Program**
-**ADMA2025 conference program can be found here.**
+ADMA2025 conference program can be found here.
 
 <!-- **PSTDA2023 Special Session is TBD.** -->
 
-**Pay careful  attention to the time zone difference!**
+Pay careful  attention to the time zone difference!
 
 ### **Special Session Schedule**
 TBA
