@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <div style="font-size: 12px;">Call for Papers</div>
+title: Call for Papers
 permalink: /cfp/
 ---
 
