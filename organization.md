@@ -7,21 +7,21 @@ permalink: /organization/
 ## **Conference Chairs**
 
 ### **General Chairs**
-- Amin Beheshti, Professor, Macquarie University
-- Victor S. Sheng, Associate professor, Texas Tech University
-- Guanfeng Liu, Senior Lecturer, Macquarie University
+- Amin Beheshti, Macquarie University, Australia
+- Victor S. Sheng, Texas Tech University, USA
+- Guanfeng Liu, Macquarie University, Australia
 
 ### **Program Committee Chairs**
-- Jilin Hu, Associate professor, Aalborg University
-- Xuyun Zhang, Senior Lecturer, Macquarie University
-- Lianyong Qi, Professor, China University of Petroleum
+- Jilin Hu, Aalborg University, Denmark
+- Xuyun Zhang, Macquarie University, Australia
+- Lianyong Qi, China University of Petroleum, China
 
 ### **Publicity Chairs**
-- Hongsheng Hu, Data61, CSIRO, University of Auckland
-- Adnan Mahmood, Macquarie University
+- Hongsheng Hu, University of Auckland, New Zealand
+- Adnan Mahmood, Macquarie University, Australia
 
 ### **Web Chairs**
-- Pengfei Ding, Macquarie University
+- Pengfei Ding, Macquarie University, Australia
 
 <!-- |<font size=5>**General Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
