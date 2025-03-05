@@ -58,7 +58,7 @@ permalink: /organization/
 |**Pengfei Ding**<br>*Macquarie University* |||    -->
 
 
-## **Technical Program Committee**
+### **Technical Program Committee**
 - Lichao Sun, Lehigh University, USA
 - Chunjie Zhou, Ludong University, China
 - Dali Kaafar, Macquarie University, Australia
