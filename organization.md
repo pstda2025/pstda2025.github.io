@@ -4,7 +4,7 @@ title: Organization
 permalink: /organization/
 ---
 ### **General Chairs**
-- Wenjie Zhang, University of New SouthWales, Australia
+- Wenjie Zhang, University of New South Wales, Australia
 - Junhua Ding, University of North Texas, USA
 - Yongbin Zhou, Nanjing University of Science and Technology, China
 
