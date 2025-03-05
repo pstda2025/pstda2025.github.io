@@ -4,7 +4,7 @@ title: Dates
 permalink: /dates/
 ---
 
-#### - **Submission deadline:**	*Pending* 
+#### - **Submission deadline:**	*May 8, 2025* 
 #### - **Notification date:**	*Pending*
 #### - **Camera-ready due:**	*Pending*
 #### - **Event dates:**	*Pending*
