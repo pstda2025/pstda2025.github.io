@@ -19,22 +19,22 @@ permalink: /cfp/
 <div style="text-align: justify"> This special session invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. Topics of interest include, but are not limited to: </div>
 
 <br/>
-
-- New privacy, security and trust opportunities and challenges in data analytics
-- Novel theories and modelling for privacy, security, and trust in data analytics
-- Private, secure, and trust deep learning for data analytics
-- Privacy-preserving data mining and machine learning
-- Federated/collaborative learning
-- Machine unlearning
-- Adversarial machine learning for robust data analytics
-- Transfer learning for private, secure, and trust data analytics
-- Data poisoning and model evasion attacks and defences
-- Cryptographic techniques based private, secure, and trust data analytics
-- Privacy, security, and trust management for data analytics
-- Blockchain for privacy, security, and trust in data analytics
-- Real-world applications for private, secure and trust data analytics
-- Privacy, security and privacy issues, trends, and challenges in data analytics
-
+– New privacy, security and trust opportunities and challenges in data analytics
+– Novel theories and modelling for privacy, security, and trust in data analytics
+– Private, secure, and trust deep learning for data analytics
+– Privacy-preserving data mining and machine learning
+– Federated/collaborative learning
+– Machine unlearning
+– Adversarial machine learning for robust data analytics
+– Transfer learning for private, secure, and trust data analytics
+– Data poisoning and model evasion attacks and defences
+– Cryptographic techniques based private, secure, and trust data analytics
+– Privacy, security, and trust management for data analytics
+– Emerging approaches and strategies for the security analysis of IoT devices
+– Blockchain for privacy, security, and trust in data analytics
+– Real-world applications for private, secure and trust data analytics
+– Generative AI, including LLMs, for private, secure and trust data analytics
+– Privacy, security and privacy issues, trends, and challenges in data analytics
 <br/>
 
 # **Submission Guideline and Reviewing**
