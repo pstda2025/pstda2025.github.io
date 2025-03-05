@@ -109,7 +109,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 <br/>
 
-# **Own Prior Work, Well-Known Projects, and Research Artifacts**
+**Own Prior Work, Well-Known Projects, and Research Artifacts**
 
 1. Authors should not upload their manuscript to preprint servers (such as arXiv) or their personal websites while the paper is under review, or otherwise publicly reveal their authorship of the manuscript under review.
 
