@@ -3,16 +3,15 @@ layout: page
 title: Organization 
 permalink: /organization/
 ---
+### **General Chairs**
+- Wenjie Zhang, University of New SouthWales, Australia
+- Junhua Ding, University of North Texas, USA
+- Yongbin Zhou, Nanjing University of Science and Technology, China
 
 ### **Program Committee Chairs**
 - Shuchao Pang, Nanjing University of Science and Technology, China
 - Yang Zhang, University of North Texas, USA
 - Amin Beheshti, Macquarie University, Australia
-
-### **General Chairs**
-- Wenjie Zhang, University of New SouthWales, Australia
-- Junhua Ding, University of North Texas, USA
-- Yongbin Zhou, Nanjing University of Science and Technology, China
 
 <!-- ### **General Chairs**
 - Amin Beheshti, Macquarie University, Australia
