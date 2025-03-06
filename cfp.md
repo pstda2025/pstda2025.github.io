@@ -14,7 +14,7 @@ permalink: /cfp/
 
 <br/>
 
-<div style="text-align: justify"> Accepted research papers will be included in the ADMA 2025 proceedings. </div>
+<div style="text-align: justify"> Accepted research papers will be included in the ADMA 2025 proceedings.</div>
 
 <br/>
 
