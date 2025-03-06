@@ -12,6 +12,7 @@ permalink: /cfp/
 
 <div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacypreserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc.</div>
 
+<div style="text-align: justify"> Accepted research papers will be included in the ADMA 2025 proceedings.</div>
 <br/>
 
 # **Topics of Interest**
