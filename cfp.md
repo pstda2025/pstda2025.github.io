@@ -17,6 +17,7 @@ permalink: /cfp/
 <div style="text-align: justify"> Accepted research papers will be included in the ADMA 2025 proceedings.</div>
 
 <br/>
+
 # **Topics of Interest**
 
 <div style="text-align: justify"> This special session invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. Topics of interest include, but are not limited to: </div>
