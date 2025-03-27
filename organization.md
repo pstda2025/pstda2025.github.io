@@ -31,6 +31,7 @@ permalink: /organization/
 
 ### **Web Chairs**
 - Pengfei Ding, Macquarie University, Australia
+- Yuejun Liu, Nanjing University of Science and Technology, China
 
 <!-- |<font size=5>**General Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
